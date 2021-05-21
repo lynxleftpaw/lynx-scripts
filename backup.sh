@@ -1,4 +1,3 @@
-#rsync -av --delete /home /media/lynx/soggy/_backup/lgbrr/home
 BKUP_DEST="/your/target/location"
 
 # full system archive, ignore extra partitions, include sym/hard links, exclude various caches, show progress / transfer speed
